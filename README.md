@@ -79,12 +79,6 @@ I learned how to use dictionaries for keyword matching, how to add a typing effe
 *April 2026*
 # 🔒 Cybersecurity Awareness Chatbot — Part 2
 
-**Student Number:** [Your Student Number]  
-**Module:** PROG6221  
-**Institution:** The Independent Institute of Education (IIE)  
-**Year:** 2026  
-
----
 
 ## 📋 Table of Contents
 
